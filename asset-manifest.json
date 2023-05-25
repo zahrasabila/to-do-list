@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/aroma-bumi/static/css/main.c11ffecc.css",
-    "main.js": "/aroma-bumi/static/js/main.77ae3973.js",
-    "static/media/Talk.gif": "/aroma-bumi/static/media/Talk.6117924a16009042084e.gif",
-    "index.html": "/aroma-bumi/index.html",
-    "main.c11ffecc.css.map": "/aroma-bumi/static/css/main.c11ffecc.css.map",
-    "main.77ae3973.js.map": "/aroma-bumi/static/js/main.77ae3973.js.map"
+    "main.css": "/to-do-list/static/css/main.c11ffecc.css",
+    "main.js": "/to-do-list/static/js/main.5d5bcb72.js",
+    "static/media/Talk.gif": "/to-do-list/static/media/Talk.6117924a16009042084e.gif",
+    "index.html": "/to-do-list/index.html",
+    "main.c11ffecc.css.map": "/to-do-list/static/css/main.c11ffecc.css.map",
+    "main.5d5bcb72.js.map": "/to-do-list/static/js/main.5d5bcb72.js.map"
   },
   "entrypoints": [
     "static/css/main.c11ffecc.css",
-    "static/js/main.77ae3973.js"
+    "static/js/main.5d5bcb72.js"
   ]
 }
